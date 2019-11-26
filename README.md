@@ -1,2 +1,2 @@
-# codberry
+# codeberry
 learning
